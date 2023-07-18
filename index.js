@@ -60,7 +60,7 @@
 //if (numbers.length > 1) {
   //let start = 0;
   //let end = numbers.length - 1;
-
+//if numbers length is greater than 1, let count start at zero, and then from the end count backwards (-1)//
   //while (start < end) {
     //[numbers[start], numbers[end]] = [numbers[end], numbers[start]];
     //start++;
