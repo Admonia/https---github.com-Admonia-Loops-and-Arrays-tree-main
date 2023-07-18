@@ -78,14 +78,14 @@
 //if i is a multiple of 5 (i % 5 === 0), it prints "Buzz" 
 //if none of the conditions are met its prints the value
 //for (let i = 1; i <= 100; i++) {
-  //if (i % 3 === 0 && i % 5 === 0) {
-    //checking the code using console.log (node index.js in terminal)
-    //console.log("FizzBuzz");
-  //} else if (i % 3 === 0) {
-    //console.log("Fizz");
-  //} else if (i % 5 === 0) {
-    //console.log("Buzz");
- // } else {
-   // console.log(i);
- // }
+//if (i % 3 === 0 && i % 5 === 0) {
+  //  checking the code using console.log (node index.js in terminal)
+   // console.log("FizzBuzz");
+ // } else if (i % 3 === 0) {
+//    console.log("Fizz");
+ // } else if (i % 5 === 0) {
+//console.log("Buzz");
+//} else {
+  //console.log(i);
+//}
 //}
